@@ -1,0 +1,80 @@
+[{
+    "id": 1,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"LautyMono.jpeg",
+    "fecha":"2023-06-14",
+    "url": "https://github.com/agusfulco1/TP6---Banderas.git"
+},
+{
+    "id": 2,
+    "titulo":"TP04---Citas",
+    "descripcion":"Este es el TP de citas, muy bueno la verdad",
+    "imagenes":"AriPerdido.jpeg",
+    "fecha":"2023-05-04",
+    "url": "https://github.com/agusfulco1/TP04---Citas.git"
+},
+{
+    "id": 3,
+    "titulo":"TP-Productos",
+    "descripcion":"Este es el TP de productos version uno, muy bueno la verdad",
+    "imagenes":"FrancoGamer.jpeg",
+    "fecha":"2023-04-20",
+    "url": "https://github.com/teglus133/TP-Productos.git"
+},
+{
+    "id": 4,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+},
+{
+    "id": 5,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+},
+{
+    "id": 6,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+},
+{
+    "id": 7,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+},
+{
+    "id": 8,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+},
+{
+    "id": 9,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+},
+{
+    "id": 10,
+    "titulo":"TP6---Banderas",
+    "descripcion":"Este es el TP de banderas, muy bueno la verdad",
+    "imagenes":"",
+    "fecha":"",
+    "url": ""
+}]

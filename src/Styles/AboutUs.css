@@ -1,0 +1,23 @@
+.project-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .image-container {
+    width: 100%; /* El ancho de la imagen se ajusta al 100% del contenedor */
+    height: auto; /* El alto se ajusta automáticamente según el ancho */
+    margin-bottom: 10px; /* Agrega un margen inferior entre las imágenes */
+  }
+  
+  .image-container img {
+    width: 100%; /* El ancho de la imagen se ajusta al 100% del contenedor */
+    height: auto; /* El alto se ajusta automáticamente según el ancho */
+    margin-bottom: 10px; /* Agrega un margen inferior entre las imágenes */
+  }
+  
+  text-container {
+    flex: 1;
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "Usuarios": [
+      {
+        "nombre": "usuario1@example.com",
+        "contraseña": "clave123"
+      },
+      {
+        "nombre": "usuario2@example.com",
+        "contraseña": "miPassword"
+      },
+      {
+        "nombre": "usuario3@example.com",
+        "contraseña": "secreto2023"
+      }
+    ]
+  }
+  

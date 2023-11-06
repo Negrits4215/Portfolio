@@ -1,0 +1,145 @@
+{
+    "creaciones": [
+      {
+        "id": 1,
+        "titulo": "Sistema de Gestión de Bibliotecas",
+        "sinopsis": "Desarrollo de un sistema para gestionar el inventario de libros de una biblioteca.",
+        "masInfo": "Este proyecto involucra el diseño y desarrollo de un sistema integral de gestión de bibliotecas. La aplicación permitirá a los bibliotecarios catalogar libros, gestionar préstamos, rastrear devoluciones y proporcionar a los usuarios una interfaz amigable para buscar y reservar libros en línea. La tecnología utilizada incluye Python para el backend, Django como framework web y PostgreSQL como base de datos. Además, se implementará un sistema de notificaciones por correo electrónico para recordar a los usuarios las fechas de vencimiento de sus préstamos.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 2,
+        "titulo": "Aplicación de Red Social",
+        "sinopsis": "Construcción de una red social para compartir fotos y mensajes con amigos.",
+        "masInfo": "Esta aplicación de red social es un proyecto ambicioso que tiene como objetivo proporcionar a los usuarios una plataforma para conectarse y compartir contenido. Los usuarios pueden crear perfiles, publicar fotos, seguir a otros usuarios y dejar comentarios en las publicaciones. Además de las características básicas, se implementarán funciones avanzadas como chat en tiempo real y un algoritmo de recomendación de amigos. La aplicación se desarrolla utilizando React para el frontend y Node.js para el backend, con MongoDB como base de datos para almacenar los datos de los usuarios y las publicaciones.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 3,
+        "titulo": "Tienda en Línea de Ropa",
+        "sinopsis": "Creación de una plataforma de comercio electrónico para una tienda de ropa de moda.",
+        "masInfo": "Este proyecto implica el desarrollo de una tienda en línea de ropa de moda, lo que permitirá a los clientes navegar y comprar una amplia gama de productos. La plataforma proporciona características como la visualización de productos, la gestión de carritos de compra y la finalización de pedidos. Además, se integrarán sistemas de pago en línea seguros y una función de seguimiento de envíos. La tecnología utilizada incluye PHP para el backend, MySQL como base de datos y HTML/CSS para el diseño del frontend. La plataforma se diseñará para ser altamente escalable, ya que se espera un gran volumen de tráfico.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 4,
+        "titulo": "Sistema de Control de Inventarios",
+        "sinopsis": "Desarrollo de un sistema para controlar el inventario de una empresa de logística.",
+        "masInfo": "Este proyecto tiene como objetivo crear un sistema eficiente de control de inventarios para una empresa de logística. El sistema permitirá llevar un registro detallado de los productos en stock, gestionar entradas y salidas, y generar informes de inventario en tiempo real. Además, se integrará un sistema de código de barras para facilitar el seguimiento de productos. La tecnología utilizada incluye Java para el backend y Oracle Database como base de datos. Se implementará una interfaz de usuario intuitiva para que los usuarios puedan acceder y gestionar fácilmente los datos del inventario.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 5,
+        "titulo": "Aplicación de Clima en Tiempo Real",
+        "sinopsis": "Creación de una aplicación que proporciona información de clima en tiempo real.",
+        "masInfo": "Esta aplicación de clima en tiempo real recopila datos meteorológicos de fuentes confiables y ofrece a los usuarios información precisa y actualizada. Los usuarios pueden buscar el pronóstico del tiempo por ubicación y recibir notificaciones en caso de condiciones meteorológicas extremas. La aplicación se desarrolla utilizando JavaScript y se integra con API de datos de clima para obtener información precisa. Se implementará una interfaz de usuario atractiva y fácil de usar para brindar a los usuarios una experiencia agradable.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 6,
+        "titulo": "Plataforma de Aprendizaje en Línea",
+        "sinopsis": "Desarrollo de una plataforma para ofrecer cursos en línea a estudiantes.",
+        "masInfo": "Esta plataforma de aprendizaje en línea tiene como objetivo proporcionar a estudiantes de todas las edades una amplia gama de cursos en línea. Los estudiantes pueden inscribirse en cursos, acceder a materiales de aprendizaje, realizar exámenes y obtener certificados de finalización. La plataforma se construyó con Ruby on Rails para el backend y MySQL como base de datos. Se implementará un sistema de gestión de contenido (CMS) para que los instructores puedan crear y actualizar cursos fácilmente. Además, se integrará un sistema de seguimiento del progreso del estudiante.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 7,
+        "titulo": "Aplicación de Gestión de Proyectos",
+        "sinopsis": "Creación de una aplicación para administrar proyectos y tareas.",
+        "masInfo": "Esta aplicación de gestión de proyectos permite a las empresas planificar, asignar y dar seguimiento a proyectos y tareas de manera eficiente. Los usuarios pueden crear proyectos, asignar tareas a miembros del equipo, establecer fechas de vencimiento y realizar un seguimiento del progreso. La aplicación se desarrolla utilizando Python y el framework Flask. Se utilizará una base de datos para almacenar la información de los proyectos y las tareas, y se implementarán gráficos de Gantt para una visualización clara del cronograma del proyecto.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 8,
+        "titulo": "Sistema de Reservas de Hoteles",
+        "sinopsis": "Desarrollo de un sistema para reservar habitaciones de hotel en línea.",
+        "masInfo": "Este sistema de reservas de hoteles permite a los usuarios buscar, comparar y reservar habitaciones de hotel en línea. Los usuarios pueden ver detalles de las habitaciones, verificar la disponibilidad y realizar reservas en tiempo real. La aplicación se implementa con PHP y utiliza MySQL como base de datos para almacenar información sobre hoteles, habitaciones y reservas. Además, se implementará un sistema de calificaciones y comentarios para que los usuarios compartan sus experiencias en los hoteles.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 9,
+        "titulo": "Juego de Preguntas y Respuestas",
+        "sinopsis": "Creación de un juego de preguntas y respuestas para dispositivos móviles.",
+        "masInfo": "Este juego de preguntas y respuestas desafía a los jugadores con una amplia variedad de preguntas en diferentes categorías. Los jugadores pueden competir contra otros en línea, ganar puntos y desbloquear logros. El juego se desarrolla en Unity, lo que permite su lanzamiento en múltiplas plataformas, incluyendo dispositivos móviles y PC. Se implementará un sistema de gestión de perfiles de jugadores, marcadores de posición en línea y actualizaciones periódicas con nuevas preguntas y desafíos.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 10,
+        "titulo": "Plataforma de Streaming de Música",
+        "sinopsis": "Desarrollo de una plataforma para transmitir música en línea.",
+        "masInfo": "Esta plataforma de streaming de música ofrece a los amantes de la música acceso a una amplia biblioteca de canciones y álbumes. Los usuarios pueden explorar música por género, crear listas de reproducción personalizadas y disfrutar de música en tiempo real. La plataforma se implementa con Node.js para el backend y utiliza MongoDB para almacenar datos de canciones y usuarios. Se incluirá una función de recomendación de música basada en los hábitos de escucha de los usuarios.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 11,
+        "titulo": "Sistema de Control de Acceso",
+        "sinopsis": "Creación de un sistema de control de acceso para edificios.",
+        "masInfo": "Este sistema de control de acceso proporciona una solución segura y eficiente para gestionar la entrada a edificios. Los usuarios pueden desbloquear puertas y portones utilizando tarjetas de acceso o dispositivos móviles. El sistema se implementa utilizando C++ y se integra con Raspberry Pi para el hardware de control de acceso. Se incluirá un sistema de registro de eventos y notificaciones para el personal de seguridad y los administradores del edificio.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 12,
+        "titulo": "Aplicación de Viajes",
+        "sinopsis": "Desarrollo de una aplicación para planificar y reservar viajes.",
+        "masInfo": "Esta aplicación de viajes proporciona a los usuarios la capacidad de buscar destinos, comparar opciones de vuelos y alojamiento, y realizar reservas de viajes completas. Los usuarios pueden personalizar itinerarios, recibir alertas de precios y acceder a detalles sobre atracciones locales. La aplicación se construye con React Native y se conecta a una base de datos en Firebase para la gestión de información en tiempo real. Se incluirá una función de revisión de destinos y una opción de planificación de viajes grupales.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 13,
+        "titulo": "Plataforma de Comida a Domicilio",
+        "sinopsis": "Creación de una plataforma para ordenar comida a domicilio.",
+        "masInfo": "Esta plataforma de comida a domicilio permite a los usuarios explorar menús de restaurantes locales, realizar pedidos en línea y recibir entregas a domicilio. Los usuarios pueden personalizar sus pedidos, realizar seguimiento de la entrega y calificar la experiencia. La plataforma se desarrolla utilizando PHP y el framework Laravel, con MySQL como base de datos para almacenar información de restaurantes, menús y pedidos. Se integrará un sistema de pago en línea seguro y una aplicación móvil para realizar pedidos desde dispositivos móviles.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 14,
+        "titulo": "Sistema de Seguimiento de Paquetes",
+        "sinopsis": "Desarrollo de un sistema para rastrear paquetes en tiempo real.",
+        "masInfo": "Este sistema de seguimiento de paquetes proporciona a las empresas de mensajería y logística la capacidad de rastrear y gestionar envíos en tiempo real. Los usuarios pueden ingresar números de seguimiento y recibir actualizaciones sobre la ubicación y el estado de sus paquetes. El sistema se implementa con Python y utiliza el framework Django para el desarrollo web. Se integrarán servicios de mapas y notificaciones para proporcionar a los usuarios información precisa y oportuna sobre sus envíos.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 15,
+        "titulo": "Aplicación de Fitness",
+        "sinopsis": "Creación de una aplicación para hacer seguimiento de entrenamientos y dieta.",
+        "masInfo": "Esta aplicación de fitness permite a los usuarios planificar y hacer seguimiento de sus entrenamientos, dietas y metas de salud. Los usuarios pueden registrar sus actividades físicas, monitorear su ingesta de alimentos y recibir consejos personalizados. La aplicación se desarrolla en Flutter y se conecta a Firebase para el almacenamiento de datos y la autenticación de usuarios. Se incluirán rutinas de ejercicios preestablecidas, un seguimiento del progreso y notificaciones para recordar a los usuarios sus sesiones de entrenamiento.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 16,
+        "titulo": "Plataforma de Subastas en Línea",
+        "sinopsis": "Desarrollo de una plataforma para realizar subastas en línea.",
+        "masInfo": "Esta plataforma de subastas en línea permite a los usuarios pujar y ganar artículos en un entorno virtual. Los vendedores pueden listar productos para subastar, y los compradores pueden competir por los productos. La plataforma se construye con Ruby on Rails y utiliza PostgreSQL como base de datos para almacenar información de subastas y usuarios. Se incluirán funciones de chat en vivo para los compradores y vendedores, un sistema de reputación y la capacidad de programar subastas futuras.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 17,
+        "titulo": "Sistema de Reservas de Restaurantes",
+        "sinopsis": "Desarrollo de un sistema para reservar mesas en restaurantes.",
+        "masInfo": "Este sistema de reservas de restaurantes facilita a los usuarios la búsqueda y reserva de mesas en restaurantes locales. Los usuarios pueden ver la disponibilidad de mesas, seleccionar horarios de reserva y recibir confirmaciones por correo electrónico. El sistema se implementa con Java y utiliza MySQL como base de datos para el seguimiento de reservas y restaurantes. Se integrará una función de revisión de restaurantes y un sistema de recomendación basado en las preferencias del usuario.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 18,
+        "titulo": "Juego de Rompecabezas",
+        "sinopsis": "Desarrollo de un juego de rompecabezas para dispositivos móviles.",
+        "masInfo": "Este juego de rompecabezas desafía a los jugadores a resolver una variedad de rompecabezas y acertijos. Los jugadores pueden elegir entre diferentes niveles de dificultad y disfrutar de gráficos atractivos. El juego se implementa en Unity y utiliza C# para la programación. Se incluirán múltiples modos de juego, logros desbloqueables y un sistema de pistas para ayudar a los jugadores en caso de dificultad.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 19,
+        "titulo": "Aplicación de Calendario",
+        "sinopsis": "Creación de una aplicación de calendario con recordatorios.",
+        "masInfo": "Esta aplicación de calendario es una herramienta esencial para ayudar a los usuarios a organizar sus agendas y recordatorios. Los usuarios pueden programar eventos, establecer recordatorios y sincronizar datos en múltiples dispositivos. El desarrollo de la aplicación se realizó en Kotlin para Android, aprovechando las capacidades de Firebase para la sincronización de datos y notificaciones.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      },
+      {
+        "id": 20,
+        "titulo": "Plataforma de Citas en Línea",
+        "sinopsis": "Desarrollo de una plataforma para programar citas médicas en línea.",
+        "masInfo": "Esta plataforma de citas en línea tiene como objetivo simplificar el proceso de programación de citas médicas. Los usuarios pueden buscar médicos disponibles, ver horarios y programar citas de manera conveniente. El desarrollo se realizó utilizando PHP para el backend y MySQL como base de datos para gestionar información de pacientes y médicos, lo que garantiza la confidencialidad y seguridad de los datos.",
+        "imagen": "https://media.istockphoto.com/id/1153439787/vector/setting-gear-tool-cog-isolated-flat-web-mobile-icon-vector-sign-symbol-button-element.jpg?s=612x612&w=0&k=20&c=fiC-QUJXXJF9wm-TY-oEzUsuZSpoEhr01tWq0akxjhE="
+      }
+    ]
+  }
+  
